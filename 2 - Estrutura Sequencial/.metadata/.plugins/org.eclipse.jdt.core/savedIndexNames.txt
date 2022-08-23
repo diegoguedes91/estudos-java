@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\diego\OneDrive\Área de Trabalho\Java\2 - Estrutura Sequencial\.metadata\.plugins\org.eclipse.jdt.core
+2992205212.index
+1530579113.index
+4095658889.index
+3311295754.index
+1865797976.index
+3258161427.index
+1549208752.index
+742258751.index

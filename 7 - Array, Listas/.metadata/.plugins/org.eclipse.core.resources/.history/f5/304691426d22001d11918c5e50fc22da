@@ -1,0 +1,38 @@
+package application;
+
+import java.util.Scanner;
+
+import entities.VectorNumber;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+
+		System.out.print("Quantos Valores vai ter cada vetor?");
+		
+		int n = sc.nextInt(); 
+		
+		VectorNumber[] vect = new VectorNumber[n]; 
+		
+		System.out.println("Digite os valores do vetor A:");
+		
+		for(int i = 0; i < vect.length; i++) {
+			
+			int a = sc.nextInt();
+			vect[i] = new VectorNumber(a);
+			
+		}
+		
+		for(int i = 0; i < vect.length; i++) {
+			
+			int b = sc.nextInt();
+			vect[i] = new VectorNumber(b);
+			
+		}
+		
+		sc.close();
+	}
+
+}

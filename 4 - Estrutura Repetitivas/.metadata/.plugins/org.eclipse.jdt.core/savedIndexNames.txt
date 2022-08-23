@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+C:\Users\diego\OneDrive\Área de Trabalho\Java\4 - Estrutura Repetitivas\.metadata\.plugins\org.eclipse.jdt.core
+742258751.index
+629912596.index
+1072053153.index
+3258161427.index
+1384940674.index
+1549208752.index
+1865797976.index
+3311295754.index
+2992205212.index
+1530579113.index
+3040127365.index

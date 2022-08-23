@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in); 
+		
+		int start_time, final_time, total; 
+		
+		start_time = sc.nextInt(); 
+		final_time = sc.nextInt(); 
+		
+		if(start_time < final_time) {
+			total = final_time - start_time;
+			System.out.println("O JOGO DUROU " + total + " HORA(S)");
+		}
+		else if(start_time == final_time){
+			System.out.println("O JOGO DUROU 24 HORAS");
+		}
+		
+		sc.close();
+	}
+
+}

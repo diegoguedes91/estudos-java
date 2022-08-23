@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\diego\OneDrive\Área de Trabalho\Java\6 - Construtores, Palavra this, Sobrecarga, encapsulamento\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4095658889.index
+1549208752.index

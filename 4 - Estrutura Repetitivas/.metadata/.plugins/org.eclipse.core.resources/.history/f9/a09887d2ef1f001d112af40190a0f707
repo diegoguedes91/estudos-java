@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+
+		int n = sc.nextInt();
+		double x1 = 0.0, x2 = 0.0, x3 = 0.0, media = 0.0; 
+		
+		for(int i = 0; i <= n; i++) {
+			
+			x1 = sc.nextInt(); 
+			x2 = sc.nextInt();
+			x3 = sc.nextInt(); 
+			
+			media = (x1 * 2 + x2 * 3 + x3 * 5) / 2 + 3 + 5; 
+			System.out.printf("%.1f%n");
+		}
+		
+		sc.close();
+	}
+
+}

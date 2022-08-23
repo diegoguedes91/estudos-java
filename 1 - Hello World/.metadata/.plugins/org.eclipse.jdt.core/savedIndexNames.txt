@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\diego\OneDrive\Área de Trabalho\Java\1 - Hello World\.metadata\.plugins\org.eclipse.jdt.core
+4095658889.index
+1865797976.index
+3726495391.index

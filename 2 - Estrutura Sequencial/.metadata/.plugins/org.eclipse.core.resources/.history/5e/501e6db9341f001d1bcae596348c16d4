@@ -1,0 +1,35 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in); 
+
+		double pi = 3.14159; 
+		double a, b, c, triangle, circle, trapeze, square, rectangle; 
+		
+		a = sc.nextDouble(); 
+		b = sc.nextDouble();
+		c = sc.nextDouble(); 
+		
+		triangle = (a * c) / 2; 
+		
+		circle = pi * Math.pow(c, 2); 
+		
+		trapeze = ((a + b) * c) / 2; 
+		
+		square = Math.pow(b, 2);
+		
+		rectangle = a * b; 
+		
+		System.out.printf("TRIANGULO %.3f%N", triangle);
+		System.out.printf("CIRCULO %.3f%N", circle);
+		System.out.printf("TRAPEZIO %.3f%N", trapeze);
+		System.out.printf("QUADRADO %.3f%N", square);
+		System.out.printf("RETANGULO %.3f%N", rectangle);
+		
+		sc.close();
+	}
+
+}

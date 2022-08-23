@@ -1,0 +1,30 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+
+		int a, b, verification; 
+		
+		a = sc.nextInt(); 
+		b = sc.nextInt(); 
+		
+		if(a > b) {
+			verification = b; 
+			b = a; 
+			a = verification;
+		}
+		
+		if(a % b != 0) {
+			System.out.println("Nao sao Multiplos");
+		}
+		else {
+			System.out.println("Sao Multiplos");
+		}
+		
+		sc.close();
+	}
+
+}

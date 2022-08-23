@@ -1,0 +1,26 @@
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+
+		double tax; 
+		
+		double salary = sc.nextDouble(); 
+		
+		if(salary <= 2000.00) {
+			tax = 0.0; 
+		}
+		else if(salary > 2000.00){
+			tax = (salary - 2000.00) * 0.08; 
+			System.out.println(tax);
+		}
+		
+		sc.close();
+	}
+
+}

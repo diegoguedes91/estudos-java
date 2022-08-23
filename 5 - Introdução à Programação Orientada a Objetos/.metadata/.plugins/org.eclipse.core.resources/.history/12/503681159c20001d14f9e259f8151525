@@ -1,0 +1,10 @@
+package entities;
+
+public class CurrencyConverter {
+
+	public static final double IOF = 0.06; 
+	
+	public static double total_payable(double dollars_value, double quantity) {
+		return (dollars_value * quantity) / IOF + dollars_value * quantity;
+	}
+}
