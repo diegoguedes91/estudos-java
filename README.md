@@ -1,6 +1,6 @@
-# Estudos na Linguagem Java 
+# ![](https://github.com/diegoguedes91/estudos-java/blob/main/img/java_icon.png) Estudos na Linguagem Java 
 
-### ![](https://github.com/diegoguedes91/estudos-java/blob/main/img/java_icon.png) Repositório destinado a estudos usando linguagem Java desde o básico até o avançado 
+### Repositório destinado a estudos usando linguagem Java desde o básico até o avançado 
 
 
 
@@ -49,6 +49,15 @@ ordem crescente ou decrescente.](https://github.com/diegoguedes91/estudos-java/b
 
 * [Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo, sabendo que o mesmo pode
 começar em um dia e terminar em outro, tendo uma duração mínima de 1 hora e máxima de 24 horas.](https://github.com/diegoguedes91/estudos-java/blob/main/3%20-%20Estrutura%20Condicional/exercicio_4/src/Main.java)
+
+* [Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A
+seguir, calcule e mostre o valor da conta a pagar](https://github.com/diegoguedes91/estudos-java/blob/main/3%20-%20Estrutura%20Condicional/exercicio_5/src/exercicio_5/Main.java)
+
+  ![tabela_de_lanches](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_5_estrutura_condicional.JPG)
+  
+* [Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos
+seguintes intervalos ([0,25], (25,50), (50,75), (75,100)) este valor se encontra. Obviamente se o valor não estiver em
+nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo”.](https://github.com/diegoguedes91/estudos-java/blob/main/3%20-%20Estrutura%20Condicional/exercicio_6/src/Main.java)
 
 ## [Estrutura Repetitivas](https://github.com/diegoguedes91/estudos-java/tree/main/4%20-%20Estrutura%20Repetitivas)
 
