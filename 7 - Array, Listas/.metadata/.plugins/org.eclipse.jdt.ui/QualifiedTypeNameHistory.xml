@@ -5,7 +5,10 @@
     <fullyQualifiedTypeName name="entities.VectorNumber"/>
     <fullyQualifiedTypeName name="entities.RegistrationOfPeople"/>
     <fullyQualifiedTypeName name="entities.Students"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="entities.PeopleData"/>
+    <fullyQualifiedTypeName name="entities.RoomRent"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="entities.Employee"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
