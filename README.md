@@ -4,7 +4,19 @@
 
 
 
-## [Hello World](https://github.com/diegoguedes91/estudos-java/blob/main/1%20-%20Hello%20World/hello_world/src/Main.java)
+## Hello World
+
+* [Faça um programa que imprima na tela Hello World!](https://github.com/diegoguedes91/estudos-java/blob/main/1%20-%20Hello%20World/hello_world/src/Main.java)
+
+```Java
+public class Main {
+
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+
+	}
+}
+```
 
 ## Estrutura Sequencial
 * [Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma
