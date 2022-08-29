@@ -93,7 +93,7 @@ mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela 
           No exemplo fornecido (abaixo), a taxa é de 8% sobre R$ 1000.00 + 18% sobre R$ 2.00, o que resulta em R$ 80.36 no total. 
           O valor deve ser impresso com duas casas decimais.
 
-## Estrutura Repetitivas
+## Estruturas Repetitivas
 
 ### WHILE
 
