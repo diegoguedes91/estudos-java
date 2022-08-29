@@ -77,8 +77,9 @@ ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0).](htt
 
 	![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_7_estrutura_condicional.JPG) 
 
-    Se o ponto estiver na origem, escreva a mensagem “Origem”.
-    Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a situação.
+    [Se o ponto estiver na origem, escreva a mensagem “Origem”.](https://github.com/diegoguedes91/estudos-java/blob/main/3%20-%20Estrutura%20Condicional/exercicio_7/src/Main.java)
+    
+    [Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a situação.](https://github.com/diegoguedes91/estudos-java/blob/main/3%20-%20Estrutura%20Condicional/exercicio_7/src/Main.java)
 
 * [Em um país imaginário denominado Lisarb, todos os habitantes ficam felizes em pagar seus impostos, pois sabem
 que nele não existem políticos corruptos e os recursos arrecadados são utilizados em benefício da população, sem
@@ -88,10 +89,8 @@ mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela 
 
 	![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_8_estrutura_condicional.JPG)
 
-          Lembre que, se o salário for R$ 3002.00, a taxa que incide é de 8% apenas sobre R$ 1000.00,
-          pois a faixa de salário que fica de R$ 0.00 até R$ 2000.00 é isenta de Imposto de Renda. 
-          No exemplo fornecido (abaixo), a taxa é de 8% sobre R$ 1000.00 + 18% sobre R$ 2.00, o que resulta em R$ 80.36 no total. 
-          O valor deve ser impresso com duas casas decimais.
+	[Lembre que, se o salário for R$ 3002.00, a taxa que incide é de 8% apenas sobre R$ 1000.00,           pois a faixa de salário que fica de R$ 0.00 até R$ 2000.00 é isenta de Imposto de Renda.](https://github.com/diegoguedes91/estudos-java/blob/main/3%20-%20Estrutura%20Condicional/exercicio_8/src/Main.java)
+          
 
 ## Estruturas Repetitivas
 
@@ -166,7 +165,25 @@ uma pessoa em reais. Informar quantos reais a pessoa vai pagar pelos dólares, c
 que a pessoa terá que pagar 6% de IOF sobre o valor em dólar. Criar uma classe CurrencyConverter
 para ser responsável pelos cálculos.](https://github.com/diegoguedes91/estudos-java/tree/main/5%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/exercicio_4/src)
 
-## [Construtores, Palavra this, Sobrecarga, encapsulamento](https://github.com/diegoguedes91/estudos-java/tree/main/6%20-%20Construtores%2C%20Palavra%20this%2C%20Sobrecarga%2C%20encapsulamento)
+## Construtores, Palavra this, Sobrecarga, encapsulamento
+
+* [Em um banco, para se cadastrar uma conta bancária, é necessário informar o número da conta, o nome do
+titular da conta, e o valor de depósito inicial que o titular depositou ao abrir a conta. Este valor de depósito
+inicial, entretanto, é opcional, ou seja: se o titular não tiver dinheiro a depositar no momento de abrir sua
+conta, o depósito inicial não será feito e o saldo inicial da conta será, naturalmente, zero.](https://github.com/diegoguedes91/estudos-java/tree/main/6%20-%20Construtores%2C%20Palavra%20this%2C%20Sobrecarga%2C%20encapsulamento/exercicio_1/src)
+
+	[Importante: uma vez que uma conta bancária foi aberta, o número da conta nunca poderá ser alterado. Já
+	o nome do titular pode ser alterado (pois uma pessoa pode mudar de nome por ocasião de casamento, por
+	exemplo).](https://github.com/diegoguedes91/estudos-java/tree/main/6%20-%20Construtores%2C%20Palavra%20this%2C%20Sobrecarga%2C%20encapsulamento/exercicio_1/src)
+	
+	[Por fim, o saldo da conta não pode ser alterado livremente. É preciso haver um mecanismo para proteger
+	isso. O saldo só aumenta por meio de depósitos, e só diminui por meio de saques. Para cada saque
+	realizado, o banco cobra uma taxa de $ 5.00. Nota: a conta pode ficar com saldo negativo se o saldo não for
+	suficiente para realizar o saque e/ou pagar a taxa.
+	Você deve fazer um programa que realize o cadastro de uma conta, dando opção para que seja ou não
+	informado o valor de depósito inicial. Em seguida, realizar um depósito e depois um saque, sempre
+	mostrando os dados da conta após cada operação.](https://github.com/diegoguedes91/estudos-java/tree/main/6%20-%20Construtores%2C%20Palavra%20this%2C%20Sobrecarga%2C%20encapsulamento/exercicio_1/src)
+
 
 ## [Array, Listas](https://github.com/diegoguedes91/estudos-java/tree/main/7%20-%20Array%2C%20Listas)
 
