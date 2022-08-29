@@ -137,7 +137,30 @@ Lembrando que, por definição, fatorial de 0 é 1.](https://github.com/diegogue
 * [Fazer um programa para ler um número inteiro positivo N. O programa deve então mostrar na tela N linhas,
 começando de 1 até N. Para cada linha, mostrar o número da linha, depois o quadrado e o cubo do valor.](https://github.com/diegoguedes91/estudos-java/blob/main/4%20-%20Estrutura%20Repetitivas/exercicio_10/src/Main.java)
 
-## [Introdução à Programação Orientada a Objetos](https://github.com/diegoguedes91/estudos-java/tree/main/5%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos)
+## Introdução à Programação Orientada a Objetos
+
+* [Fazer um programa para ler os valores da largura e altura
+de um retângulo. Em seguida, mostrar na tela o valor de
+sua área, perímetro e diagonal. Usar uma classe como
+mostrado no projeto ao lado.](https://github.com/diegoguedes91/estudos-java/tree/main/5%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/exercicio_1/src)
+
+* [Fazer um programa para ler os dados de um funcionário (nome, salário bruto e imposto). Em
+seguida, mostrar os dados do funcionário (nome e salário líquido). Em seguida, aumentar o
+salário do funcionário com base em uma porcentagem dada (somente o salário bruto é
+afetado pela porcentagem) e mostrar novamente os dados do funcionário. Use a classe
+projetada abaixo.](https://github.com/diegoguedes91/estudos-java/tree/main/5%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/exercicio_2/src)
+
+* [Fazer um programa para ler o nome de um aluno e as três notas que ele obteve nos três trimestres do ano
+(primeiro trimestre vale 30 e o segundo e terceiro valem 35 cada). Ao final, mostrar qual a nota final do aluno no
+ano. Dizer também se o aluno está aprovado (PASS) ou não (FAILED) e, em caso negativo, quantos pontos faltam
+para o aluno obter o mínimo para ser aprovado (que é 60% da nota). Você deve criar uma classe Student para
+resolver este problema.
+](https://github.com/diegoguedes91/estudos-java/tree/main/5%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/exercicio_3/src)
+
+* [Faça um programa para ler a cotação do dólar, e depois um valor em dólares a ser comprado por
+uma pessoa em reais. Informar quantos reais a pessoa vai pagar pelos dólares, considerando ainda
+que a pessoa terá que pagar 6% de IOF sobre o valor em dólar. Criar uma classe CurrencyConverter
+para ser responsável pelos cálculos.](https://github.com/diegoguedes91/estudos-java/tree/main/5%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/exercicio_4/src)
 
 ## [Construtores, Palavra this, Sobrecarga, encapsulamento](https://github.com/diegoguedes91/estudos-java/tree/main/6%20-%20Construtores%2C%20Palavra%20this%2C%20Sobrecarga%2C%20encapsulamento)
 
