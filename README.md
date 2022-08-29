@@ -75,7 +75,7 @@ nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo�
 de um ponto em um plano. A seguir, determine qual o quadrante ao qual pertence o
 ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0).](https://github.com/diegoguedes91/estudos-java/blob/main/3%20-%20Estrutura%20Condicional/exercicio_7/src/Main.java)
 
-![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_7_estrutura_condicional.JPG) 
+	![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_7_estrutura_condicional.JPG) 
 
     Se o ponto estiver na origem, escreva a mensagem “Origem”.
     Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a situação.
@@ -86,7 +86,7 @@ qualquer desvio. A moeda deste país é o Rombus, cujo símbolo é o R$.
 Leia um valor com duas casas decimais, equivalente ao salário de uma pessoa de Lisarb. Em seguida, calcule e
 mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo.](https://github.com/diegoguedes91/estudos-java/blob/main/3%20-%20Estrutura%20Condicional/exercicio_8/src/Main.java)
 
-![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_8_estrutura_condicional.JPG)
+	![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_8_estrutura_condicional.JPG)
 
           Lembre que, se o salário for R$ 3002.00, a taxa que incide é de 8% apenas sobre R$ 1000.00,
           pois a faixa de salário que fica de R$ 0.00 até R$ 2000.00 é isenta de Imposto de Renda. 
@@ -144,7 +144,7 @@ de um retângulo. Em seguida, mostrar na tela o valor de
 sua área, perímetro e diagonal. Usar uma classe como
 mostrado no projeto ao lado.](https://github.com/diegoguedes91/estudos-java/tree/main/5%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/exercicio_1/src)
 
-![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_1_Introducao_a_Programacao_Orientada_a_Objetos.JPG)
+	![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_1_Introducao_a_Programacao_Orientada_a_Objetos.JPG)
 
 * [Fazer um programa para ler os dados de um funcionário (nome, salário bruto e imposto). Em
 seguida, mostrar os dados do funcionário (nome e salário líquido). Em seguida, aumentar o
@@ -152,7 +152,7 @@ salário do funcionário com base em uma porcentagem dada (somente o salário br
 afetado pela porcentagem) e mostrar novamente os dados do funcionário. Use a classe
 projetada abaixo.](https://github.com/diegoguedes91/estudos-java/tree/main/5%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/exercicio_2/src)
 
-![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_2_Introducao_a_Programacao_Orientada_a_Objetos.JPG)
+	![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_2_Introducao_a_Programacao_Orientada_a_Objetos.JPG)
 
 * [Fazer um programa para ler o nome de um aluno e as três notas que ele obteve nos três trimestres do ano
 (primeiro trimestre vale 30 e o segundo e terceiro valem 35 cada). Ao final, mostrar qual a nota final do aluno no
