@@ -271,6 +271,8 @@ N funcionários. Não deve haver repetição de id.](https://github.com/diegogue
 	ser mudado livremente. Um salário só pode ser aumentado com base em uma operação de
 	aumento por porcentagem dada.](https://github.com/diegoguedes91/estudos-java/tree/main/7%20-%20Array%2C%20Listas/exercicio_13/src)
 	
+	![](https://github.com/diegoguedes91/estudos-java/blob/main/img/Exercicio_13_Array_Listas.JPG)
+	
 ### Matriz
 
 * [Fazer um programa para ler dois números inteiros M e N, e depois ler
