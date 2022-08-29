@@ -93,7 +93,23 @@ mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela 
           No exemplo fornecido (abaixo), a taxa é de 8% sobre R$ 1000.00 + 18% sobre R$ 2.00, o que resulta em R$ 80.36 no total. 
           O valor deve ser impresso com duas casas decimais.
 
-## [Estrutura Repetitivas](https://github.com/diegoguedes91/estudos-java/tree/main/4%20-%20Estrutura%20Repetitivas)
+## Estrutura Repetitivas
+
+### WHILE
+
+* [Escreva um programa que repita a leitura de uma senha até que ela seja válida. Para cada leitura de senha
+incorreta informada, escrever a mensagem "Senha Invalida". Quando a senha for informada corretamente deve ser
+impressa a mensagem "Acesso Permitido" e o algoritmo encerrado. Considere que a senha correta é o valor 2002.](https://github.com/diegoguedes91/estudos-java/blob/main/4%20-%20Estrutura%20Repetitivas/exercicio_1/src/Main.java)
+
+* [Escreva um programa para ler as coordenadas (X,Y) de uma quantidade indeterminada de pontos no sistema
+cartesiano. Para cada ponto escrever o quadrante a que ele pertence. O algoritmo será encerrado quando pelo
+menos uma de duas coordenadas for NULA (nesta situação sem escrever mensagem alguma).](https://github.com/diegoguedes91/estudos-java/blob/main/4%20-%20Estrutura%20Repetitivas/exercicio_2/src/Main.java)
+
+* [Um Posto de combustíveis deseja determinar qual de seus produtos tem a preferência de seus clientes. Escreva
+um algoritmo para ler o tipo de combustível abastecido (codificado da seguinte forma: 1.Álcool 2.Gasolina 3.Diesel
+4.Fim). Caso o usuário informe um código inválido (fora da faixa de 1 a 4) deve ser solicitado um novo código (até
+que seja válido). O programa será encerrado quando o código informado for o número 4. Deve ser escrito a
+mensagem: "MUITO OBRIGADO" e a quantidade de clientes que abasteceram cada tipo de combustível](https://github.com/diegoguedes91/estudos-java/blob/main/4%20-%20Estrutura%20Repetitivas/exercicio_3/src/Main.java)
 
 ## [Introdução à Programação Orientada a Objetos](https://github.com/diegoguedes91/estudos-java/tree/main/5%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos)
 
