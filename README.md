@@ -281,4 +281,8 @@ podendo haver repetições. Em seguida, ler um número inteiro X que
 pertence à matriz. Para cada ocorrência de X, mostrar os valores à
 esquerda, acima, à direita e abaixo de X, quando houver.](https://github.com/diegoguedes91/estudos-java/blob/main/7%20-%20Array%2C%20Listas/exercicio_14/src/application/Program.java)
 
-## [Enumerações e composição](https://github.com/diegoguedes91/estudos-java/tree/main/8%20-%20Enumera%C3%A7%C3%B5es%20e%20composi%C3%A7%C3%A3o)
+## Enumerações e composição
+
+* [Ler os dados de um pedido com N itens (N fornecido pelo usuário). Depois, mostrar um
+sumário do pedido conforme exemplo (próxima página). Nota: o instante do pedido deve ser
+o instante do sistema: new Date()](https://github.com/diegoguedes91/estudos-java/tree/main/8%20-%20Enumera%C3%A7%C3%B5es%20e%20composi%C3%A7%C3%A3o/exercicio_1)
