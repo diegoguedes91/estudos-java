@@ -5,7 +5,7 @@
 
 :mag_right:Use os links abaixo para navegar na seção desejada e visualizar os links dos exercícios.
 
-:ballot_box_with_check:[Hello World!](https://github.com/diegoguedes91/estudos-java/edit/main/README.md#hello-world)</br>
+:ballot_box_with_check:[Hello World!](https://github.com/diegoguedes91/estudos-java#hello-world)</br>
 :ballot_box_with_check:[Estrutura Sequencial](https://github.com/diegoguedes91/estudos-java/edit/main/README.md#estrutura-sequencial)</br>
 :ballot_box_with_check:[Estrutura Condicional](https://github.com/diegoguedes91/estudos-java/edit/main/README.md#estrutura-condicional)</br>
 :ballot_box_with_check:[Estruturas Repetitivas](https://github.com/diegoguedes91/estudos-java/edit/main/README.md#estruturas-repetitivas)</br>
