@@ -184,6 +184,7 @@ conta, o depósito inicial não será feito e o saldo inicial da conta será, na
 	informado o valor de depósito inicial. Em seguida, realizar um depósito e depois um saque, sempre
 	mostrando os dados da conta após cada operação.](https://github.com/diegoguedes91/estudos-java/tree/main/6%20-%20Construtores%2C%20Palavra%20this%2C%20Sobrecarga%2C%20encapsulamento/exercicio_1/src)
 
+	![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_1_Construtores_Palavra_this_Sobrecarga_encapsulamento.JPG)
 
 ## [Array, Listas](https://github.com/diegoguedes91/estudos-java/tree/main/7%20-%20Array%2C%20Listas)
 
