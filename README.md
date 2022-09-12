@@ -13,7 +13,7 @@
 :ballot_box_with_check:[Construtores, Palavra this, Sobrecarga, encapsulamento](https://github.com/diegoguedes91/estudos-java#construtores-palavra-this-sobrecarga-encapsulamento)</br>
 :ballot_box_with_check:[Array, Listas](https://github.com/diegoguedes91/estudos-java#array-listas)</br>
 :ballot_box_with_check:[Enumerações e composição](https://github.com/diegoguedes91/estudos-java#enumera%C3%A7%C3%B5es-e-composi%C3%A7%C3%A3o)</br>
-:ballot_box_with_check:[Herança e polimorfismo](https://github.com/diegoguedes91/estudos-java/edit/main/README.md#heran%C3%A7a-e-polimorfismo)</br>
+:ballot_box_with_check:[Herança e polimorfismo](https://github.com/diegoguedes91/estudos-java#heran%C3%A7a-e-polimorfismo)</br>
 
 ## Hello World
 
