@@ -13,6 +13,7 @@
 :ballot_box_with_check:[Construtores, Palavra this, Sobrecarga, encapsulamento](https://github.com/diegoguedes91/estudos-java#construtores-palavra-this-sobrecarga-encapsulamento)</br>
 :ballot_box_with_check:[Array, Listas](https://github.com/diegoguedes91/estudos-java#array-listas)</br>
 :ballot_box_with_check:[Enumerações e composição](https://github.com/diegoguedes91/estudos-java#enumera%C3%A7%C3%B5es-e-composi%C3%A7%C3%A3o)</br>
+:ballot_box_with_check:[Herança e polimorfismo](https://github.com/diegoguedes91/estudos-java/edit/main/README.md#heran%C3%A7a-e-polimorfismo)</br>
 
 ## Hello World
 
@@ -298,3 +299,13 @@ sumário do pedido conforme exemplo (próxima página). Nota: o instante do pedi
 o instante do sistema: new Date()](https://github.com/diegoguedes91/estudos-java/tree/main/8%20-%20Enumera%C3%A7%C3%B5es%20e%20composi%C3%A7%C3%A3o/exercicio_1)
 
 	![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_1_Enumeracoes_e_composicao.JPG)
+
+## Herança e polimorfismo
+
+* [Fazer um programa para ler os dados de N produtos (N fornecido pelo usuário). Ao final, mostrar a etiqueta de preço de cada produto na mesma ordem em que foram digitados.](https://github.com/diegoguedes91/estudos-java/tree/main/9%20-%20Heran%C3%A7a%20e%20polimorfismo/exercicio_1/src)
+
+	[Todo produto possui nome e preço. Produtos importados possuem uma taxa de alfândega, e produtos usados possuem data de fabricação. Estes dados específicos devem ser acrescentados na etiqueta de preço conforme exemplo (próxima página). Para produtos importados, a taxa e alfândega deve ser acrescentada ao preço final do produto.](https://github.com/diegoguedes91/estudos-java/tree/main/9%20-%20Heran%C3%A7a%20e%20polimorfismo/exercicio_1/src)
+
+	[Favor implementar o programa conforme projeto abaixo.](https://github.com/diegoguedes91/estudos-java/tree/main/9%20-%20Heran%C3%A7a%20e%20polimorfismo/exercicio_1/src)
+	
+	![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_1_Heranca_e_polimorfismo.JPG)
