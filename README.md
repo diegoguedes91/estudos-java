@@ -304,7 +304,7 @@ o instante do sistema: new Date()](https://github.com/diegoguedes91/estudos-java
 
 * [Fazer um programa para ler os dados de N produtos (N fornecido pelo usuário). Ao final, mostrar a etiqueta de preço de cada produto na mesma ordem em que foram digitados.](https://github.com/diegoguedes91/estudos-java/tree/main/9%20-%20Heran%C3%A7a%20e%20polimorfismo/exercicio_1/src)
 
-	[Todo produto possui nome e preço. Produtos importados possuem uma taxa de alfândega, e produtos usados possuem data de fabricação. Estes dados específicos devem ser acrescentados na etiqueta de preço conforme exemplo (próxima página). Para produtos importados, a taxa e alfândega deve ser acrescentada ao preço final do produto.](https://github.com/diegoguedes91/estudos-java/tree/main/9%20-%20Heran%C3%A7a%20e%20polimorfismo/exercicio_1/src)
+	[Todo produto possui nome e preço. Produtos importados possuem uma taxa de alfândega, e produtos usados possuem data de fabricação. Estes dados específicos devem ser acrescentados na etiqueta de preço. Para produtos importados, a taxa e alfândega deve ser acrescentada ao preço final do produto.](https://github.com/diegoguedes91/estudos-java/tree/main/9%20-%20Heran%C3%A7a%20e%20polimorfismo/exercicio_1/src)
 
 	[Favor implementar o programa conforme projeto abaixo.](https://github.com/diegoguedes91/estudos-java/tree/main/9%20-%20Heran%C3%A7a%20e%20polimorfismo/exercicio_1/src)
 	
