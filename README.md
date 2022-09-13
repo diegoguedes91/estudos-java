@@ -15,6 +15,7 @@
 :ballot_box_with_check:[Enumerações e composição](https://github.com/diegoguedes91/estudos-java#enumera%C3%A7%C3%B5es-e-composi%C3%A7%C3%A3o)</br>
 :ballot_box_with_check:[Herança e polimorfismo](https://github.com/diegoguedes91/estudos-java#heran%C3%A7a-e-polimorfismo)</br>
 :ballot_box_with_check:[Tratamento de exceções](https://github.com/diegoguedes91/estudos-java#tratamento-de-exce%C3%A7%C3%B5es)</br>
+:ballot_box_with_check:[Trabalhando com arquivos]()</br>
 
 ## Hello World
 
@@ -327,3 +328,11 @@ o instante do sistema: new Date()](https://github.com/diegoguedes91/estudos-java
 * [Fazer um programa para ler os dados de uma conta bancária e depois realizar um saque nesta conta bancária, mostrando o novo saldo. Um saque não pode ocorrer ou se não houver saldo na conta, ou se o valor do saque for superior ao limite de saque da conta. Implemente a conta bancária conforme projeto abaixo:](https://github.com/diegoguedes91/estudos-java/tree/main/10%20-%20Tratamento%20de%20exce%C3%A7%C3%B5es/exercicio_1/src)
 
 	![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_1_Tratamento_de_exce%C3%A7%C3%B5es.JPG)
+
+## Trabalhando com arquivos
+
+* [Fazer um programa para ler o caminho de um arquivo .csv contendo os dados de itens vendidos. Cada item possui um nome, preço unitário e quantidade, separados por vírgula. Você deve gerar um novo arquivo chamado "summary.csv", localizado
+em uma subpasta chamada "out" a partir da pasta original do arquivo de origem, contendo apenas o nome e o valor total para
+aquele item (preço unitário multiplicado pela quantidade), conforme exemplo.](https://github.com/diegoguedes91/estudos-java/tree/main/11%20-%20Trabalhando%20com%20arquivos/exercicio_1)
+
+	![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_1_Trabalhando_com_arquivos.JPG)
