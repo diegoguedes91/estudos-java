@@ -14,6 +14,7 @@
 :ballot_box_with_check:[Array, Listas](https://github.com/diegoguedes91/estudos-java#array-listas)</br>
 :ballot_box_with_check:[Enumerações e composição](https://github.com/diegoguedes91/estudos-java#enumera%C3%A7%C3%B5es-e-composi%C3%A7%C3%A3o)</br>
 :ballot_box_with_check:[Herança e polimorfismo](https://github.com/diegoguedes91/estudos-java#heran%C3%A7a-e-polimorfismo)</br>
+:ballot_box_with_check:[Tratamento de exceções]()</br>
 
 ## Hello World
 
@@ -320,3 +321,9 @@ o instante do sistema: new Date()](https://github.com/diegoguedes91/estudos-java
 	<strong>Pessoa jurídica:</strong> pessoas jurídicas pagam 16% de imposto. Porém, se a empresa possuir mais de 10 funcionários, ela paga 14% de imposto. Exemplo: uma empresa cuja renda foi 400000.00 e possui 25 funcionários, o imposto fica: 400000 * 14% = 56000.00
 
 	![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_2_Heranca_e_polimorfismo.JPG)
+
+## Tratamento de exceções
+
+* [Fazer um programa para ler os dados de uma conta bancária e depois realizar um saque nesta conta bancária, mostrando o novo saldo. Um saque não pode ocorrer ou se não houver saldo na conta, ou se o valor do saque for superior ao limite de saque da conta. Implemente a conta bancária conforme projeto abaixo:](https://github.com/diegoguedes91/estudos-java/tree/main/10%20-%20Tratamento%20de%20exce%C3%A7%C3%B5es/exercicio_1/src)
+
+	![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_1_Tratamento_de_exce%C3%A7%C3%B5es.JPG)
