@@ -14,7 +14,7 @@
 :ballot_box_with_check:[Array, Listas](https://github.com/diegoguedes91/estudos-java#array-listas)</br>
 :ballot_box_with_check:[Enumerações e composição](https://github.com/diegoguedes91/estudos-java#enumera%C3%A7%C3%B5es-e-composi%C3%A7%C3%A3o)</br>
 :ballot_box_with_check:[Herança e polimorfismo](https://github.com/diegoguedes91/estudos-java#heran%C3%A7a-e-polimorfismo)</br>
-:ballot_box_with_check:[Tratamento de exceções]()</br>
+:ballot_box_with_check:[Tratamento de exceções](https://github.com/diegoguedes91/estudos-java#tratamento-de-exce%C3%A7%C3%B5es)</br>
 
 ## Hello World
 
