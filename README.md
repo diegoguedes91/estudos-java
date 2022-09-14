@@ -16,6 +16,7 @@
 :ballot_box_with_check:[Herança e polimorfismo](https://github.com/diegoguedes91/estudos-java#heran%C3%A7a-e-polimorfismo)</br>
 :ballot_box_with_check:[Tratamento de exceções](https://github.com/diegoguedes91/estudos-java#tratamento-de-exce%C3%A7%C3%B5es)</br>
 :ballot_box_with_check:[Trabalhando com arquivos](https://github.com/diegoguedes91/estudos-java/blob/main/README.md#trabalhando-com-arquivos)</br>
+:ballot_box_with_check:[Interfaces]()</br>
 
 ## Hello World
 
@@ -336,3 +337,20 @@ em uma subpasta chamada "out" a partir da pasta original do arquivo de origem, c
 aquele item (preço unitário multiplicado pela quantidade), conforme exemplo.](https://github.com/diegoguedes91/estudos-java/tree/main/11%20-%20Trabalhando%20com%20arquivos/exercicio_1)
 
 	![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_1_Trabalhando_com_arquivos.JPG)
+	
+## Interfaces
+
+* [Uma empresa deseja automatizar o processamento de seus contratos. O processamento de um contrato consiste em gerar as parcelas a serem pagas para aquele contrato, com base no número de meses desejado.](https://github.com/diegoguedes91/estudos-java/tree/main/12%20-%20Interfaces/exercicio_1/src)
+
+	[A empresa utiliza um serviço de pagamento online para realizar o pagamento das parcelas. Os serviços de pagamento online tipicamente cobram um juro mensal, bem como uma taxa por pagamento. Por enquanto, o serviço contratado pela empresa é o do Paypal, que aplica juros simples de 1% a cada parcela, mais uma taxa de pagamento de 2%.](https://github.com/diegoguedes91/estudos-java/tree/main/12%20-%20Interfaces/exercicio_1/src)
+
+
+	[Fazer um programa para ler os dados de um contrato (número do contrato, data do contrato, e valor total do contrato). Em seguida, o programa deve ler o número de meses para parcelamento do contrato, e daí gerar os registros de parcelas a serem pagas (data e valor), sendo a primeira parcela a ser paga um mês após a data do contrato, a segunda parcela dois
+meses após o contrato e assim por diante. Mostrar os dados das parcelas na tela.](https://github.com/diegoguedes91/estudos-java/tree/main/12%20-%20Interfaces/exercicio_1/src)
+
+	![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_1_Interfaces_exemplo.JPG)
+
+	![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_1_Interfaces_entities.JPG)
+
+	![](https://github.com/diegoguedes91/estudos-java/blob/main/img/exercicio_1_Interfaces_service.JPG)
+
